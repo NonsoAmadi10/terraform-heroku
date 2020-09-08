@@ -42,3 +42,7 @@
 - Provision the heroku infrastructure based on your configuration settings
 
     - Run `terraform apply`
+
+- To destroy the provisioned infrastructure, simply run
+
+    - `terraform destroy`
